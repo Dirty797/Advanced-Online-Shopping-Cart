@@ -1,0 +1,1 @@
+The C++ shopping cart program allows users to manage their shopping cart through a console menu. Users can add, remove, modify items, and display cart details. The program operates in a loop, using methods from the Shopping Cart class to update and display cart contents until the user decides to quit.
